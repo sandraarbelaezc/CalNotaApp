@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalNotaApp</string>
+    <string name="Npracticas">Prácticas:</string>
+    <string name="Nava1">Proyecto, avance 1:</string>
+    <string name="Nava2">Proyecto, avance 2:</string>
+    <string name="Nava3">Proyecto, avance 3:</string>
+    <string name="Nappf">Aplicación final:</string>
+    <string name="Nfinal">Nota final:</string>
+    <string name="app">Notas</string>
+</resources>
